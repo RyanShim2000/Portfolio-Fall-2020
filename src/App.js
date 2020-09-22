@@ -5,9 +5,9 @@ import { HashRouter, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-  <HashRouter basename="/" style={{height: '100%'}}>
+  <div style={{height: '100%'}}>
     <NavBar></NavBar>    
-  </HashRouter>
+  </div>
   );
 }
 

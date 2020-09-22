@@ -12,11 +12,12 @@ import {
   import ContactMePage from './ContactMePage'
   import { Navbar, Nav } from 'react-bootstrap'
   import pdf from './Files/resume_fall_2020.pdf'
+  import { HashRouter, Route, Link } from "react-router-dom";
 
 
 function NavBar() {
     return (
-        <Router>
+        <HashRouter basename="/">
             <Navbar  expand="md" style={{backgroundColor:'white'}}>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-auto" />
                     <Navbar.Collapse id="basic-navbar-nav" className="ml-auto">
@@ -37,7 +38,7 @@ function NavBar() {
             </Switch>
 
             
-        </Router>
+        </HashRouter>
     );
   }
   
