@@ -35,7 +35,7 @@ function ProjectPage() {
                 features, and credit card payment using StripeJs.
             </BodyText>
           </a>
-          <a className='datasci hov col-lg-6' href="https://github.com/RyanShim2000/personal-website-fall2020">
+          <a className='datasci hov col-lg-6' href="https://github.com/RyanShim2000/Portfolio-Fall-2020">
             <ProjectTitle>Personal Website</ProjectTitle>
             <BodyText>A responsive website built using React. It's the website you are on right now!</BodyText>
           </a>
