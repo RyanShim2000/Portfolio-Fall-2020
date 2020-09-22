@@ -32,8 +32,8 @@ function NavBar() {
 
             <Switch>
                 <Route component={HomePage} exact path="/" />
-                <Route component={ProjectPage} path="/Portfolio-Fall-2020/#/Projects" />
-                <Route component={ContactMePage} path="/Portfolio-Fall-2020/#/ContactMe" />
+                <Route component={ProjectPage} path="/Projects" />
+                <Route component={ContactMePage} path="/ContactMe" />
 
             </Switch>
 
