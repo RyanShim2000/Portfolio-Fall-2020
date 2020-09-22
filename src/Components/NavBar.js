@@ -12,7 +12,7 @@ import {
   import ContactMePage from './ContactMePage'
   import { Navbar, Nav } from 'react-bootstrap'
   import pdf from './Files/resume_fall_2020.pdf'
-  import { HashRouter, Route, Link } from "react-router-dom";
+  import { HashRouter } from "react-router-dom";
 
 
 function NavBar() {
