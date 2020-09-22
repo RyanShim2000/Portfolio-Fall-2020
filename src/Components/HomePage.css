@@ -1,0 +1,7 @@
+.back {
+    height: calc(100% - 56px);
+    margin:0;
+    background-image: url("./Files/homeimg.jpg");
+    background-size: cover;
+    z-index:-1;
+  }

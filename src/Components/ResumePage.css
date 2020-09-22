@@ -1,0 +1,47 @@
+.solitaire {
+margin:0;
+background-image: url("./Files/solitaire.jpg");
+background-size: cover;
+  width:100%;
+    height: 50%;
+    object-fit: cover;
+    overflow: hidden;
+
+}
+
+.hov:hover {
+  background-color:blue;
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+
+.django {
+  height: 50%;
+margin:0;
+background-image: url("./Files/django.jpg");
+background-size: cover;
+  width:100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.datasci {
+  height: 50%;
+margin:0;
+background-image: url("./Files/datasci.jpg");
+background-size: cover;
+  width:100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.weather {
+  height: 50%;
+margin:0;
+background-image: url("./Files/weather.jpg");
+background-size: cover;
+  width:100%;
+    object-fit: cover;
+    overflow: hidden;
+}
