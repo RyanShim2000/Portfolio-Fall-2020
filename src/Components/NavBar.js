@@ -23,9 +23,9 @@ function NavBar() {
                     <Navbar.Collapse id="basic-navbar-nav" className="ml-auto">
                     <Nav justify className="ml-auto">
                         <Nav.Link href="/" className="ml-auto">About me</Nav.Link>
-                        <Nav.Link href="Portfolio-Fall-2020/#/Projects" className="ml-auto">Projects</Nav.Link>
+                        <Nav.Link href="/Portfolio-Fall-2020/#/Projects" className="ml-auto">Projects</Nav.Link>
                         <Nav.Link  href={pdf} target="__blank" className="ml-auto">Resume</Nav.Link>
-                        <Nav.Link href="Portfolio-Fall-2020/ContactMe" className="ml-auto">Contact Me</Nav.Link>
+                        <Nav.Link href="/Portfolio-Fall-2020/ContactMe" className="ml-auto">Contact Me</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
             </Navbar>
