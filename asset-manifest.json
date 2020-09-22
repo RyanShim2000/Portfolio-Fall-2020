@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Fall-2020/static/css/main.b6bca53d.chunk.css",
+    "main.js": "/Portfolio-Fall-2020/static/js/main.fe8a5904.chunk.js",
+    "main.js.map": "/Portfolio-Fall-2020/static/js/main.fe8a5904.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Fall-2020/static/js/runtime-main.df223ab3.js",
+    "runtime-main.js.map": "/Portfolio-Fall-2020/static/js/runtime-main.df223ab3.js.map",
+    "static/js/2.15f4d5fb.chunk.js": "/Portfolio-Fall-2020/static/js/2.15f4d5fb.chunk.js",
+    "static/js/2.15f4d5fb.chunk.js.map": "/Portfolio-Fall-2020/static/js/2.15f4d5fb.chunk.js.map",
+    "index.html": "/Portfolio-Fall-2020/index.html",
+    "precache-manifest.8959bfe13f9796749b5d570b8f7e24a4.js": "/Portfolio-Fall-2020/precache-manifest.8959bfe13f9796749b5d570b8f7e24a4.js",
+    "service-worker.js": "/Portfolio-Fall-2020/service-worker.js",
+    "static/css/main.b6bca53d.chunk.css.map": "/Portfolio-Fall-2020/static/css/main.b6bca53d.chunk.css.map",
+    "static/js/2.15f4d5fb.chunk.js.LICENSE.txt": "/Portfolio-Fall-2020/static/js/2.15f4d5fb.chunk.js.LICENSE.txt",
+    "static/media/ContactPage.css": "/Portfolio-Fall-2020/static/media/contactme.f123cf49.jpg",
+    "static/media/ResumePage.css": "/Portfolio-Fall-2020/static/media/weather.1d91051d.jpg",
+    "static/media/HomePage.css": "/Portfolio-Fall-2020/static/media/homeimg.1682ecb5.jpg",
+    "static/media/resume_fall_2020.pdf": "/Portfolio-Fall-2020/static/media/resume_fall_2020.4f12bf35.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df223ab3.js",
+    "static/js/2.15f4d5fb.chunk.js",
+    "static/css/main.b6bca53d.chunk.css",
+    "static/js/main.fe8a5904.chunk.js"
+  ]
+}
