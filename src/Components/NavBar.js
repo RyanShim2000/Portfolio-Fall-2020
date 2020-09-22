@@ -25,7 +25,7 @@ function NavBar() {
                         <Nav.Link href="/#/PortFolio-Fall-2020" className="ml-auto">About me</Nav.Link>
                         <Nav.Link href="/Portfolio-Fall-2020/#/Projects" className="ml-auto">Projects</Nav.Link>
                         <Nav.Link  href={pdf} target="__blank" className="ml-auto">Resume</Nav.Link>
-                        <Nav.Link href="/Portfolio-Fall-2020/ContactMe" className="ml-auto">Contact Me</Nav.Link>
+                        <Nav.Link href="/Portfolio-Fall-2020/#/ContactMe" className="ml-auto">Contact Me</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
             </Navbar>
@@ -33,7 +33,7 @@ function NavBar() {
             <Switch>
                 <Route component={HomePage} exact path="/#/PortFolio-Fall-2020" />
                 <Route component={ProjectPage} path="/Portfolio-Fall-2020/#/Projects" />
-                <Route component={ContactMePage} path="/Portfolio-Fall-2020/ContactMe" />
+                <Route component={ContactMePage} path="/ContactMe" />
 
             </Switch>
 
